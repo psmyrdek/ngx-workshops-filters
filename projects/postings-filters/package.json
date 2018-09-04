@@ -1,5 +1,6 @@
 {
   "name": "ngx-postings-filters",
+  "description": "Demo library to use during Angular Workshops.",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
@@ -10,7 +11,13 @@
     "email": "przemek.smyrdek@gmail.com"
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/psmyrdek/ngx-workshops-filters"
   },
-  "readme": "https://github.com/psmyrdek/ngx-workshops-filters/blob/master/README.md"
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "workshops"
+  ],
+  "readme": "https://github.com/psmyrdek/ngx-workshops-filters#readme"
 }
