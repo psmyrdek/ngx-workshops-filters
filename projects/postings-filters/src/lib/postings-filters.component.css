@@ -1,0 +1,9 @@
+.postings-filters {
+    display: flex;
+    flex-direction: row;
+}
+
+.posting-filter {
+    flex-grow: 1;
+    margin: 0 5px;
+}

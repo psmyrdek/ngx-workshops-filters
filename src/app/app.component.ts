@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-workshops-library';
+  value: string = ''
+
+  setValue(value: string) {
+    this.value = value;
+  }
 }

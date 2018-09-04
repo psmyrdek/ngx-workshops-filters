@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "postings-filters": [
+        "dist/postings-filters"
+      ],
+      "postings-filters/*": [
+        "dist/postings-filters/*"
+      ]
+    }
   }
 }
